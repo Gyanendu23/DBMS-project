@@ -150,24 +150,3 @@ insert into Volunteer values(107,'srihari','2016-01-12',NULL,'sri@gmail.com','kh
 Inserting Into Volunteer_Phone
 insert into Volunteer_Phone values('9722344567','9698521478',101); insert into Volunteer_Phone values('9123654789','9369852147',101); insert into Volunteer_Phone values('9823654789','9969852147',102); insert into Volunteer_Phone values('9723654789','9769852147',102); insert into Volunteer_Phone values('9623654785','9669852145',103); insert into Volunteer_Phone_ values('9123654782','9369852142',103); insert into Volunteer_Phone values('9523654789','9369852145',104); insert into Volunteer_Phone_ values('9163654789','9369852146',104); insert into Volunteer_Phone_ values('9177654789','9369852149',105); insert into Volunteer_Phone_ values('9103654789','9369852141',105); insert into Volunteer_Phone_ values('9193654789','9369852117',106); insert into Volunteer_Phone_ values('9133654789','9369852167',106); insert into Volunteer_Phone_ values('9711928998','9698527478',107); insert into Volunteer_Phone_ values('9123854789','9369856147',108);
 
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-Deployments
-1
- github-pages 2 years ago
-Footer
